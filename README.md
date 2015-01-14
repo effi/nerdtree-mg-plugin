@@ -1,6 +1,7 @@
 This fork tries to use the provided basis from 
 https://github.com/Xuyuanp/nerdtree-git-plugin
 and add mercurial information to Nerdtree
+Currently non-functional!
 
 
 nerdtree-git-plugin
